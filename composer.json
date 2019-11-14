@@ -1,5 +1,5 @@
 {
-  "name": "mautic/api-library",
+  "name": "yuriwf/mautic-api-library",
   "license": "MIT",
   "type": "library",
   "description": "Mautic API Connector Library",
@@ -17,7 +17,7 @@
     "php": ">=5.3.7",
     "ext-curl": "*",
     "psr/log": "~1.0",
-    "phpunit/phpunit": "^5"
+    "phpunit/phpunit": "^8"
   },
   "require-dev": {
     "raveren/kint": "~0.9"
